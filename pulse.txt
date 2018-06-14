@@ -1,3 +1,6 @@
+[2018-06-13] RubyMotion remote meetup will be tonight. Come to the #meetup room
+in the RubyMotion Slack Channel to participate (http://motioneers.herokuapp.com).
+
 [2018-06-12] RubyMotion 5.9 had a regression in generating Android and
 OSX templates. This has been resolved in 5.10 and
 http://github.com/amirrajan/rubymotion-templates. Be sure to update RubyMotion
