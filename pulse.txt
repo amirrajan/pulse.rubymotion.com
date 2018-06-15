@@ -1,3 +1,7 @@
+[2018-06-15] Here is the recording for last night's RubyMotion remote meetup.
+Be sure to thank @andrew on Slack for facilitating it:
+http://www.rubymotion.tv/posts/14-rubymotion-meetup-june-2018
+
 [2018-06-13] RubyMotion remote meetup will be tonight. Come to the #meetup room
 in the RubyMotion Slack Channel to participate (http://motioneers.herokuapp.com).
 
