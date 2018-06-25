@@ -1,26 +1,3 @@
-[2018-06-15] Here is the recording for last night's RubyMotion remote meetup.
-Be sure to thank @andrew on Slack for facilitating it:
-http://www.rubymotion.tv/posts/14-rubymotion-meetup-june-2018
-
-[2018-06-13] RubyMotion remote meetup will be tonight. Come to the #meetup room
-in the RubyMotion Slack Channel to participate (http://motioneers.herokuapp.com).
-
-[2018-06-13] An update to `rubymotion-command: motion pulse` has been made. Run
-`motion repo` to get the updates. 
-https://github.com/amirrajan/rubymotion-command/commit/5cebbfdb31d6970f5eb5a211d1c6e60acde9e097
-
-[2018-06-12] RubyMotion 5.9 had a regression in generating Android and
-OSX templates. This has been resolved in 5.10 and
-http://github.com/amirrajan/rubymotion-templates. Be sure to update RubyMotion
-using `sudo motion update` and be sure to update the community
-templates using `motion repo`. For full details, refer to the
-changelog using the `motion changelog` command.
-
-[2018-06-12] Say hello to RubyMotion Pulse. In lieu of social media
-accounts/news letters/email blasts, RubyMotion will provide updates
-with regards to what is going on in the community through the command
-`motion pulse`. To see all threads, visit
-http://pulse.rubymotion.com. If you'd like to share any news with the
-everyone who has RubyMotion installed, submit a pull request to
-http://github.com/amirrajan/pulse.rubymotion.com and I'll get it
-approved.
+[2018-06-25] Want some free time to talk with me (a successful app
+developer) one-on-one, about your app idea? Reach out to me. No
+strings attached? https://officehours.io/people/amirrajan
