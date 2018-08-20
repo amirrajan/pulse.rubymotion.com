@@ -1,4 +1,4 @@
-[2018-08-20] RubyMotion 5.11 has been release. Run `sudo motion update`
+[2018-08-20] RubyMotion 5.11 has been released. Run `sudo motion update`
 to download. Remember to run `rake clean:all` on all your apps.
 
 [2018-06-25] Want some free time to talk with me (a successful app
