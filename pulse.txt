@@ -1,3 +1,7 @@
+[2018-09-01] libstdc++ is being deprecated in Xcode 10. Here is the Slack thread
+link for more info: https://motioneers.slack.com/archives/C055RDLS0/p1535841657000100
+Join the RubyMotion Slack via http://motioneers.herokuapp.com.
+
 [2018-08-24] Lori has officially announced http://wndx.school and her
 RubyMotion curriculum. Be sure to congratulate her on Slack. Her
 full announcement can be read at: https://twitter.com/wndxlori/status/1032093870929018880
