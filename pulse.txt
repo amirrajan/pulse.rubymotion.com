@@ -1,3 +1,6 @@
+[2018-09-08] The Apple Keynote will be airing on Monday. Keep an eye out for impacts here
+or the RubyMotion Slack channel based on what Apple announces. Exciting times! 
+
 [2018-09-01] libstdc++ is being deprecated in Xcode 10. Here is the Slack thread
 link for more info: https://motioneers.slack.com/archives/C055RDLS0/p1535841657000100
 Join the RubyMotion Slack via http://motioneers.herokuapp.com.
