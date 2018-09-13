@@ -1,5 +1,10 @@
+[2018-09-13] RubyMotion 5.13 has been released which includes support for Xcode 10.
+If you are using the Starter Edition, you will need to download Xcode from
+http://developer.apple.com/download. After downloading, be sure to open up Xcode at
+least once, followed by running `rake clean:all default` to rebuild your app.
+
 [2018-09-08] The Apple Keynote will be airing on Monday. Keep an eye out for impacts here
-or the RubyMotion Slack channel based on what Apple announces. Exciting times! 
+or the RubyMotion Slack channel based on what Apple announces. Exciting times!
 
 [2018-09-01] libstdc++ is being deprecated in Xcode 10. Here is the Slack thread
 link for more info: https://motioneers.slack.com/archives/C055RDLS0/p1535841657000100
@@ -8,10 +13,3 @@ Join the RubyMotion Slack via http://motioneers.herokuapp.com.
 [2018-08-24] Lori has officially announced http://wndx.school and her
 RubyMotion curriculum. Be sure to congratulate her on Slack. Her
 full announcement can be read at: https://twitter.com/wndxlori/status/1032093870929018880
-
-[2018-08-20] RubyMotion 5.11 has been released. Run `sudo motion update`
-to download. Remember to run `rake clean:all` on all your apps.
-
-[2018-06-25] Want some free time to talk with me (a successful app
-developer) one-on-one, about your app idea? Reach out to me. No
-strings attached? https://officehours.io/people/amirrajan

@@ -1,3 +1,10 @@
+[2018-08-20] RubyMotion 5.11 has been released. Run `sudo motion update`
+to download. Remember to run `rake clean:all` on all your apps.
+
+[2018-06-25] Want some free time to talk with me (a successful app
+developer) one-on-one, about your app idea? Reach out to me. No
+strings attached? https://officehours.io/people/amirrajan
+
 [2018-06-15] Here is the recording for last night's RubyMotion remote meetup.
 Be sure to thank @andrew on Slack for facilitating it:
 http://www.rubymotion.tv/posts/14-rubymotion-meetup-june-2018
