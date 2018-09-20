@@ -1,3 +1,7 @@
+[2018-09-20] Pro Tip: The ideal layout for your mobile apps should snap
+to a grid 6 squares wide and 12 squares tall. More info/discussions in
+the Slack channel: https://motioneers.slack.com/archives/C055RDLS0/p1537418103000100
+
 [2018-09-13] RubyMotion 5.13 has been released which includes support for Xcode 10.
 If you are using the Starter Edition, you will need to download Xcode from
 http://developer.apple.com/download. After downloading, be sure to open up Xcode at
