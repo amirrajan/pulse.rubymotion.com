@@ -1,3 +1,13 @@
+[2018-09-23] New `motion` command for generating icons is now available. Run
+the `motion repo` command to receive this update. Special thanks to Andy and
+Lori for creating this command and testing it respectively.
+Also, Redpotion is currently failing with Xcode 10 given an invalid regex match
+in `ruby-xcdm`. The following PR does resolve the issue:
+https://github.com/infinitered/ruby-xcdm/pull/24. The original regex assumed
+that the Xcode version was only a single digit. Now we are up to two digits
+with Xcode 10.0. While we wait for this to get merged in you can reference the
+fork as a work around: https://github.com/Atastor/ruby-xcdm
+
 [2018-09-20] Pro Tip: The ideal layout for your mobile apps should snap
 to a grid 6 squares wide and 12 squares tall. More info/discussions in
 the Slack channel: https://motioneers.slack.com/archives/C055RDLS0/p1537418103000100
