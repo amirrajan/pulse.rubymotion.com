@@ -1,3 +1,9 @@
+[2018-09-24] If you get a chance. Please introduce yourself on the community
+forum. The "Hello World" post serves as a public registry of people that are
+"in the family" and there to help if you hit any snages, and (of course) it's
+always a good idea to expand your network. Here is the link, say hello:
+http://community.rubymotion.com/t/hello-world-start-here/13/24
+
 [2018-09-23] New `motion` command for generating icons is now available. Run
 the `motion repo` command to receive this update. Special thanks to Andy and
 Lori for creating this command and testing it respectively.
